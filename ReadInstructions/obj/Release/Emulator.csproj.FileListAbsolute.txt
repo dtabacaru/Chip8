@@ -1,9 +1,0 @@
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Release\ReadInstructions.exe.config
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Release\ReadInstructions.exe
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Release\ReadInstructions.pdb
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Release\Core.dll
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Release\Core.pdb
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Release\Emulator.csproj.CoreCompileInputs.cache
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Release\ReadInstructions.exe
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Release\ReadInstructions.pdb
-C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Release\Emulator.csprojResolveAssemblyReference.cache
