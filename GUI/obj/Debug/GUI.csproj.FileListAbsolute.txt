@@ -1,0 +1,13 @@
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\bin\Debug\GUI.exe.config
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\bin\Debug\GUI.exe
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\bin\Debug\GUI.pdb
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\bin\Debug\Core.dll
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\bin\Debug\Core.pdb
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.exe
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.pdb
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\Danut Tabacaru\source\repos\Chip8\GUI\obj\Debug\GUI.About.resources

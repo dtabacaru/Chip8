@@ -1,0 +1,9 @@
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Debug\ReadInstructions.exe.config
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Debug\ReadInstructions.exe
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Debug\ReadInstructions.pdb
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Debug\ReadInstructions.csprojResolveAssemblyReference.cache
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Debug\ReadInstructions.csproj.CoreCompileInputs.cache
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Debug\ReadInstructions.exe
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\obj\Debug\ReadInstructions.pdb
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Debug\Core.dll
+C:\Users\Danut Tabacaru\source\repos\Chip8\ReadInstructions\bin\Debug\Core.pdb

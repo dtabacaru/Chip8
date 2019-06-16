@@ -1,0 +1,5 @@
+C:\Users\Danut Tabacaru\source\repos\Chip8\Core\bin\Release\Core.dll
+C:\Users\Danut Tabacaru\source\repos\Chip8\Core\bin\Release\Core.pdb
+C:\Users\Danut Tabacaru\source\repos\Chip8\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\Danut Tabacaru\source\repos\Chip8\Core\obj\Release\Core.dll
+C:\Users\Danut Tabacaru\source\repos\Chip8\Core\obj\Release\Core.pdb
